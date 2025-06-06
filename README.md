@@ -68,3 +68,9 @@ Use the following command to execute your program:
 
 ```bash
 python rekognition.py
+```
+
+### 4. Output
+<p align="center">
+  <img src="https://imgur.com/DZpa1zi.png" alt="Architecture Diagram" width="600"/>
+</p>
