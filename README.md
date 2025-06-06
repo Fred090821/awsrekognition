@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/kcpxcCv.png" alt="Architecture Diagram" width="600"/>
+  <img src="https://imgur.com/bQtqg8x.png" alt="Architecture Diagram" width="600"/>
 </p>
 
 ## ☁️ Building an Image Labels Generator using Amazon Rekognition
